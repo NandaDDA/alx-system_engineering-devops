@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt 0x02-shell_redirections
+ls -1 --sort=time | head -n 10
