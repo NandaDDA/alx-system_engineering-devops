@@ -43,3 +43,5 @@ Remove all letters cC from input
 Reverse input
 
 Display users and their home dirs
+
+Create file and add text on ending by new line 
