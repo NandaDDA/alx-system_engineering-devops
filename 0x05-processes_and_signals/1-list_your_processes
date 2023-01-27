@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displays lines containing the bash word,
-# shellcheck disable=SC2009
+# list all my currently running processes
 
-ps -a ux | grep bas
+# source: https://linuxize.com/post/ps-command-in-linux/
+ps -auxf
